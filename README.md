@@ -183,11 +183,7 @@ print(me.say_hi())
 
 ## 📈 Contribution Graph
 
-<div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifat1025&theme=tokyo-night&bg_color=1a1b27&color=38bdf8&line=818cf8&point=34d399&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
