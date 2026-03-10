@@ -29,7 +29,7 @@ class RifatSarker:
     def __init__(self):
         self.name       = "Rifat Sarker"
         self.role       = ["Data Scientist", "Backend Engineer", "AI/ML Builder"]
-        self.location   = "Comilla, Bangladesh 🇧🇩"
+        self.location   = "Dhaka, Bangladesh 🇧🇩"
         self.stack      = ["Python", "Django", "LangChain", "TensorFlow", "HuggingFace"]
         self.interests  = ["RAG Pipelines", "LLMs", "NLP", "Scalable REST APIs"]
         self.currently  = "Building intelligent data-driven systems 🚀"
@@ -156,50 +156,44 @@ print(me.say_hi())
 
 ---
 
-
-Perfect! Here’s a **clean, mobile-friendly, polished version** of your GitHub README.md that keeps everything aligned, responsive, and visually appealing:
-
-```markdown
-# 📊 GitHub Stats & Profile
-
-<div align="center">
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifat1025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat1025&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
 
-</div>
+<br/>
 
----
-
-# 🏆 Trophies
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=rifat1025&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rifat1025&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-# 🟩 Contribution Calendar
+## 🏆 Trophies
 
 <div align="center">
 
-<img height="180em" src="https://github.com/ryo-ma/github-profile-activity-graph/raw/main/graph?username=rifat1025&theme=tokyonight"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=rifat1025&theme=tokyonight&no-frame=false&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+## 🟩 Contribution Calendar
 
 <div align="center">
 
-<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=rifat1025&theme=tokyonight&hide_border=true"/>
+[![Rifat's Contribution Graph](https://ghchart.rshah.org/00d26a/rifat1025)](https://github.com/rifat1025)
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifat1025&theme=tokyo-night&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&area_color=0e4429&hide_border=false&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -207,8 +201,9 @@ Perfect! Here’s a **clean, mobile-friendly, polished version** of your GitHub 
 
 <div align="center">
 
-💡 "Turning data into actionable insights, one model at a time."  
-🇧🇩 Dhaka, Bangladesh · Open to Collaborate 🤝 · Let's Build Together 🚀  
+### 💡 *"Turning data into actionable insights, one model at a time."*
+
+`🇧🇩 Dhaka, Bangladesh` &nbsp;·&nbsp; `Open to Collaborate 🤝` &nbsp;·&nbsp; `Let's Build Together 🚀`
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
