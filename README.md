@@ -156,16 +156,19 @@ print(me.say_hi())
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifat1025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat1025&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rifat1025&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rifat1025&theme=tokyonight&border_radius=12)](https://git.io/streak-stats)
 
 </div>
 
