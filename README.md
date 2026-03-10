@@ -157,30 +157,59 @@ print(me.say_hi())
 ---
 
 
-📊 GitHub Stats
+Perfect! Here’s a **clean, mobile-friendly, polished version** of your GitHub README.md that keeps everything aligned, responsive, and visually appealing:
+
+```markdown
+# 📊 GitHub Stats & Profile
+
 <div align="center">
+# 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifat1025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat1025&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
-<br/>
-Show Image
+
 </div>
 
-🏆 Trophies
-<div align="center">
-Show Image
-</div>
+---
 
-🟩 Contribution Calendar
-<div align="center">
-Show Image
-</div>
-📈 Activity Graph
-<div align="center">
-Show Image
-</div>
+# 🏆 Trophies
 
 <div align="center">
-💡 "Turning data into actionable insights, one model at a time."
-🇧🇩 Dhaka, Bangladesh  ·  Open to Collaborate 🤝  ·  Let's Build Together 🚀
+
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=rifat1025&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
+</div>
+
+---
+
+# 🟩 Contribution Calendar
+
+<div align="center">
+
+<img height="180em" src="https://github.com/ryo-ma/github-profile-activity-graph/raw/main/graph?username=rifat1025&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=rifat1025&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+💡 "Turning data into actionable insights, one model at a time."  
+🇧🇩 Dhaka, Bangladesh · Open to Collaborate 🤝 · Let's Build Together 🚀  
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
 </div>
