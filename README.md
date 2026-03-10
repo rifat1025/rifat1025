@@ -186,12 +186,10 @@ print(me.say_hi())
 
 
 
-## 📈 Contribution Graph
+## 📊 My GitHub Contributions
 
 <div align="center">
-
-[![Rifat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifat1025&theme=github&hide_border=true)](https://github.com/rifat1025)
-
+  <img src="https://github-readme-stats.vercel.app/api/github-contribution-graph?username=rifat1025&theme=github_dark&hide_border=true&area=true" alt="Rifat's Contribution Graph" />
 </div>
 
 <div align="center">
