@@ -157,49 +157,30 @@ print(me.say_hi())
 ---
 
 
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifat1025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat1025&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
-
 <br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rifat1025&theme=tokyonight&border_radius=12)](https://git.io/streak-stats)
-
+Show Image
 </div>
 
----
+🏆 Trophies
+<div align="center">
+Show Image
+</div>
 
-## 🏆 Trophies
+🟩 Contribution Calendar
+<div align="center">
+Show Image
+</div>
+📈 Activity Graph
+<div align="center">
+Show Image
+</div>
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rifat1025&theme=tokyonight&no-frame=false&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-
-
-## 📊 My GitHub Contributions
-
-## 📊 My GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rifat1025&theme=github-dark&hide_border=true&area=true" alt="Rifat's Contribution Graph"/>
-
-</div>
-
-### 💡 *"Turning data into actionable insights, one model at a time."*
-
-`🇧🇩 Dhaka , Bangladesh` &nbsp;·&nbsp; `Open to Collaborate 🤝` &nbsp;·&nbsp; `Let's Build Together 🚀`
-
+💡 "Turning data into actionable insights, one model at a time."
+🇧🇩 Dhaka, Bangladesh  ·  Open to Collaborate 🤝  ·  Let's Build Together 🚀
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
 </div>
