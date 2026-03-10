@@ -186,9 +186,11 @@ print(me.say_hi())
 
 ## 📈 Contribution Graph
 
+<div align="center">
 
+[![Rifat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifat1025&theme=github-light&hide_border=true&area=true)](https://github.com/rifat1025)
 
----
+</div>
 
 <div align="center">
 
