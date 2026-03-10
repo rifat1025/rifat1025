@@ -188,11 +188,13 @@ print(me.say_hi())
 
 ## 📊 My GitHub Contributions
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/github-contribution-graph?username=rifat1025&theme=github_dark&hide_border=true&area=true" alt="Rifat's Contribution Graph" />
-</div>
+## 📊 My GitHub Contributions
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rifat1025&theme=github-dark&hide_border=true&area=true" alt="Rifat's Contribution Graph"/>
+
+</div>
 
 ### 💡 *"Turning data into actionable insights, one model at a time."*
 
